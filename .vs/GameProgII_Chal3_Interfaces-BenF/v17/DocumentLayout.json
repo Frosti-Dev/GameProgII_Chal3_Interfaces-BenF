@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\school\\programming code\\GameProgII_Chal3_Interfaces-BenF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DCC24F-6066-4E58-8FED-0FCC10E3D21A}|GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF.csproj|c:\\school\\programming code\\gameprogii_chal3_interfaces-benf\\gameprogii_chal3_interfaces-benf\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DCC24F-6066-4E58-8FED-0FCC10E3D21A}|GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF.csproj|solutionrelative:gameprogii_chal3_interfaces-benf\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DCC24F-6066-4E58-8FED-0FCC10E3D21A}|GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF.csproj|c:\\school\\programming code\\gameprogii_chal3_interfaces-benf\\gameprogii_chal3_interfaces-benf\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DCC24F-6066-4E58-8FED-0FCC10E3D21A}|GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF.csproj|solutionrelative:gameprogii_chal3_interfaces-benf\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DCC24F-6066-4E58-8FED-0FCC10E3D21A}|GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF.csproj|c:\\school\\programming code\\gameprogii_chal3_interfaces-benf\\gameprogii_chal3_interfaces-benf\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DCC24F-6066-4E58-8FED-0FCC10E3D21A}|GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF.csproj|solutionrelative:gameprogii_chal3_interfaces-benf\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DCC24F-6066-4E58-8FED-0FCC10E3D21A}|GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF.csproj|c:\\school\\programming code\\gameprogii_chal3_interfaces-benf\\gameprogii_chal3_interfaces-benf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DCC24F-6066-4E58-8FED-0FCC10E3D21A}|GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF.csproj|solutionrelative:gameprogii_chal3_interfaces-benf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\school\\programming code\\GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF\\Program.cs",
+              "RelativeDocumentMoniker": "GameProgII_Chal3_Interfaces-BenF\\Program.cs",
+              "ToolTip": "C:\\school\\programming code\\GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF\\Program.cs",
+              "RelativeToolTip": "GameProgII_Chal3_Interfaces-BenF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T22:05:22.872Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\school\\programming code\\GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF\\Position.cs",
+              "RelativeDocumentMoniker": "GameProgII_Chal3_Interfaces-BenF\\Position.cs",
+              "ToolTip": "C:\\school\\programming code\\GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF\\Position.cs",
+              "RelativeToolTip": "GameProgII_Chal3_Interfaces-BenF\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T22:06:16.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\school\\programming code\\GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF\\Player.cs",
+              "RelativeDocumentMoniker": "GameProgII_Chal3_Interfaces-BenF\\Player.cs",
+              "ToolTip": "C:\\school\\programming code\\GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF\\Player.cs",
+              "RelativeToolTip": "GameProgII_Chal3_Interfaces-BenF\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T22:07:47.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\school\\programming code\\GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF\\Enemy.cs",
+              "RelativeDocumentMoniker": "GameProgII_Chal3_Interfaces-BenF\\Enemy.cs",
+              "ToolTip": "C:\\school\\programming code\\GameProgII_Chal3_Interfaces-BenF\\GameProgII_Chal3_Interfaces-BenF\\Enemy.cs",
+              "RelativeToolTip": "GameProgII_Chal3_Interfaces-BenF\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T22:07:01.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
