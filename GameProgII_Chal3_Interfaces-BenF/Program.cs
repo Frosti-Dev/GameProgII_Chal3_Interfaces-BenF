@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using GameProgII_Chal3_Interfaces_BenF;
 
 namespace GameProgII_Chal3_Interfaces_Ben.F
 {
@@ -14,41 +15,48 @@ namespace GameProgII_Chal3_Interfaces_Ben.F
 
         static void Main(string[] args)
         {
+            AggressiveMoveStrategy aggressiveMoveStrategy = new AggressiveMoveStrategy();
+            PassiveMoveStrategy passiveMoveStrategy = new PassiveMoveStrategy();
+            RandomMoveStrategy randomMoveStrategy = new RandomMoveStrategy();
+
             Player player = new Player(playerPosition, ConsoleColor.Cyan);
-            Enemy enemy = new Enemy(enemyPosition, ConsoleColor.Red, Enemy.MovementStrategy.agressive, playerPosition);
+            Enemy enemy = new Enemy(enemyPosition, ConsoleColor.Red, aggressiveMoveStrategy);
 
             while (true)
             {
                 Console.ForegroundColor = ConsoleColor.White;
+
+                enemy.Draw();
+                player.Draw();
+
                 ConsoleKeyInfo keyInfo = new ConsoleKeyInfo();
                 keyInfo = Console.ReadKey(true);
                 Console.Clear();
 
                 if (keyInfo.Key == ConsoleKey.I)
                 {
-                    enemy.ChangeMoveType(Enemy.MovementStrategy.agressive);
+                    enemy.ChangeMoveType(aggressiveMoveStrategy);
                     Debug.WriteLine("Enemy Movement Changed to aggressive");
                 }
 
                 if (keyInfo.Key == ConsoleKey.O)
                 {
-                    enemy.ChangeMoveType(Enemy.MovementStrategy.random);
+                    enemy.ChangeMoveType(passiveMoveStrategy);
                     Debug.WriteLine("Enemy Movement Changed to random");
                 }
 
                 if (keyInfo.Key == ConsoleKey.P)
                 {
-                    enemy.ChangeMoveType(Enemy.MovementStrategy.passive);
+                    enemy.ChangeMoveType(randomMoveStrategy);
                     Debug.WriteLine("Enemy Movement Changed to passive");
                 }
 
                 if (keyInfo.Key == ConsoleKey.M)
                 {
-                    enemy.Move();
+                    enemyPosition = enemy._moveStrategy.Move(enemyPosition);
                 }
-
-                enemy.Draw();
-                player.Draw();
+                
+                Debug.WriteLine($"{enemyPosition.GetX()} {enemyPosition.GetY()}");
 
             }
         }
