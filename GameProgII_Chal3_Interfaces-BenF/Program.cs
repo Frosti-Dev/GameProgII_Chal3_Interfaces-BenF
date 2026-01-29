@@ -26,7 +26,7 @@ namespace GameProgII_Chal3_Interfaces_Ben.F
             {
                 Console.ForegroundColor = ConsoleColor.White;
 
-                enemy.Draw();
+                enemy.Draw(enemyPosition);
                 player.Draw();
 
                 ConsoleKeyInfo keyInfo = new ConsoleKeyInfo();

@@ -23,10 +23,10 @@ namespace GameProgII_Chal3_Interfaces_Ben.F
         }
 
 
-        public void Draw()
+        public void Draw(Position position)
         {
             Console.ForegroundColor = _color;
-            Console.SetCursorPosition(_position.GetX(), _position.GetY());
+            Console.SetCursorPosition(position.GetX(), position.GetY());
             Console.Write("0");
         }
 
