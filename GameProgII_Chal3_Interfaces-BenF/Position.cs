@@ -27,5 +27,15 @@ namespace GameProgII_Chal3_Interfaces_Ben.F
             return _y;
         }
 
+        public void MoveX(int x)
+        {
+            _x += x;
+        }
+
+        public void MoveY(int y)
+        {
+            _y += y;
+        }
+
     }
 }

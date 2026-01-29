@@ -1,0 +1,7 @@
+C:\school\programming code\GameProgII_Chal3_Interfaces-BenF\GameProgII_Chal3_Interfaces-BenF\obj\Debug\GameProgII_Chal3_Interfaces-BenF.csproj.AssemblyReference.cache
+C:\school\programming code\GameProgII_Chal3_Interfaces-BenF\GameProgII_Chal3_Interfaces-BenF\obj\Debug\GameProgII_Chal3_Interfaces-BenF.csproj.CoreCompileInputs.cache
+C:\school\programming code\GameProgII_Chal3_Interfaces-BenF\GameProgII_Chal3_Interfaces-BenF\bin\Debug\GameProgII_Chal3_Interfaces-BenF.exe.config
+C:\school\programming code\GameProgII_Chal3_Interfaces-BenF\GameProgII_Chal3_Interfaces-BenF\bin\Debug\GameProgII_Chal3_Interfaces-BenF.exe
+C:\school\programming code\GameProgII_Chal3_Interfaces-BenF\GameProgII_Chal3_Interfaces-BenF\bin\Debug\GameProgII_Chal3_Interfaces-BenF.pdb
+C:\school\programming code\GameProgII_Chal3_Interfaces-BenF\GameProgII_Chal3_Interfaces-BenF\obj\Debug\GameProgII_Chal3_Interfaces-BenF.exe
+C:\school\programming code\GameProgII_Chal3_Interfaces-BenF\GameProgII_Chal3_Interfaces-BenF\obj\Debug\GameProgII_Chal3_Interfaces-BenF.pdb
